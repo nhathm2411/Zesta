@@ -204,6 +204,10 @@
         min-height: 450px;
     }
     
+    .height-710 {
+        height: 450px;
+    }
+
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
