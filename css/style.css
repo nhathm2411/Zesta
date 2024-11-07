@@ -180,7 +180,6 @@
     bottom: 0;
     display: flex;
     align-items: center;
-    background: rgba(136, 180, 78, .7);
     z-index: 1;
 }
 
@@ -316,7 +315,7 @@
 
 /*** About ***/
 .video {
-    background: linear-gradient(rgba(136, 180, 78, .85), rgba(136, 180, 78, .85)), url(../img/5.png) center center no-repeat;
+    background: url(../img/5.png) center center no-repeat;
     background-size: cover;
 }
 
